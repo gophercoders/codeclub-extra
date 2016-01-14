@@ -17,6 +17,9 @@ satellite and a GPS satellite in orbit. It is used to introduce number variables
 * any-orbit - a generalised version of the orbit program. It calculates the speed in
 orbit of any satellite.
 
+* pong-v1 - a skeleton to be used as a starting point for Pong. The functions for the
+main game loop need to be added.
+
 Please see the [COPYRIGHT](https://github.com/gophercoders/codeclub/blob/master/COPYRIGHT)
 file for copyright information.
 
