@@ -17,8 +17,11 @@ satellite and a GPS satellite in orbit. It is used to introduce number variables
 * any-orbit - a generalised version of the orbit program. It calculates the speed in
 orbit of any satellite.
 
+* rune-conter - Counts the number of runes in a message then prints a different
+message depending on the number of runes. Used to introduce is-else statements.
+
 * worldtemperature - compares the temperature the user types in to a number of
-cities around the world.
+cities around the world. Used to introduce if statements.
 
 * pong-v1 - a skeleton to be used as a starting point for Pong. The functions for the
 main game loop need to be added.
