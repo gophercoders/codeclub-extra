@@ -20,6 +20,10 @@ orbit of any satellite.
 * rune-conter - Counts the number of runes in a message then prints a different
 message depending on the number of runes. Used to introduce is-else statements.
 
+* rune-printer - Introduces the concept of runes. It shows how to convert a string
+to a slice of runes, how to access an individual rune and how to convert a rune
+back to a string for easy printing.
+
 * worldtemperature - compares the temperature the user types in to a number of
 cities around the world. Used to introduce if statements.
 
