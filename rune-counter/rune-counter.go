@@ -1,3 +1,5 @@
+// The rune-counter counts the number of runes in a message
+// that the user enters, and prints this to the screen.
 package main
 
 import (
