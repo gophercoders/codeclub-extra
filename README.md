@@ -17,15 +17,18 @@ satellite and a GPS satellite in orbit. It is used to introduce number variables
 * any-orbit - a generalised version of the orbit program. It calculates the speed in
 orbit of any satellite.
 
-* rune-conter - Counts the number of runes in a message then prints a different
+* worldtemperature - compares the temperature the user types in to a number of
+cities around the world. Used to introduce if statements.
+
+* rune-counter - Counts the number of runes in a message then prints a different
 message depending on the number of runes. Used to introduce is-else statements.
 
 * rune-printer - Introduces the concept of runes. It shows how to convert a string
 to a slice of runes, how to access an individual rune and how to convert a rune
 back to a string for easy printing.
 
-* worldtemperature - compares the temperature the user types in to a number of
-cities around the world. Used to introduce if statements.
+* reverse-message - Introduces the concept of repetition. It reads a string that
+the user types, and prints out the strign in reverse order.
 
 * pong-v1 - a skeleton to be used as a starting point for Pong. The functions for the
 main game loop need to be added.
